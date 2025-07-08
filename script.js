@@ -10,7 +10,8 @@ const grantAccessBtn = document.querySelector("[data-grantAccess]");
 const searchInput = document.querySelector("[data-searchInput]");
 
 // API Key
-let API_key = "e6f989a3266ab4cc1fdc3ee9d429f961";
+let API_key = "YOUR API KEY";
+"https://openweathermap.org/api"
 
 // Tab state
 let currentTab = userTab;
